@@ -1,0 +1,226 @@
+[
+  {
+    "id": "1",
+    "title": "Skin Fade Undercut",
+    "desc": "a fade and slicked back hair",
+    "image": "assets/images/hairstyles/men-skin-fade-undercut.jpg",
+    "tag": "Men's Haircut"
+  },
+  {
+    "id": "2",
+    "title": "Low Skin Fade",
+    "desc": "fading down to skin along the hairline creates a clean cut edge.",
+    "image": "assets/images/hairstyles/men-low-skin-fade.jpg",
+    "tag": "Men's Haircut"
+  },
+  {
+    "id": "3",
+    "title": "Mid Skin Fade",
+    "desc": "down to the skin puts the focus on long hair on top. It also makes for an easy to wear cut for guys with wavy or curly hair.",
+    "image": "assets/images/hairstyles/men-mid-skin-fade.jpg",
+    "tag": "Men's Haircut"
+  },
+  {
+    "id": "4",
+    "title": "High Skin Fade",
+    "desc": "The high skin fade is also especially flattering for heart and round face shapes that don’t want to add volume at the sides.",
+    "image": "assets/images/hairstyles/men-high-skin-fade.jpg",
+    "tag": "Men's Haircut"
+  },
+  {
+    "id": "5",
+    "title": "Skin Fade Comb Over",
+    "desc": "This classic men’s hairstyle gets a modern update from a skin fade.",
+    "image": "assets/images/hairstyles/men-skin-fade-comb-over.jpg",
+    "tag": "Men's Haircut"
+  },
+  {
+    "id": "6",
+    "title": "Skin Fade Haircut – Long On Top",
+    "desc": "The fresh styles is an exercise in contrasts with long texture on top and short, blurry sides.",
+    "image": "assets/images/hairstyles/men-skin-fade-haircut-long-on-top.jpg",
+    "tag": "Men's Haircut"
+  },
+  {
+    "id": "7",
+    "title": "Skin Fade Pompadour",
+    "desc": "can be worn so many ways. One of the most popular versions is with a high skin fade and maybe a subtle hair design.",
+    "image": "assets/images/hairstyles/men-skin-fade-pompadour.jpg",
+    "tag": "Men's Haircut"
+  },
+  {
+    "id": "8",
+    "title": "Low Skin Fade Comb Over",
+    "desc": "is another classic men’s hairstyle that gets a fresh update with a fade.",
+    "image": "assets/images/hairstyles/men-low-skin-fade-comb-over.jpg",
+    "tag": "Men's Haircut"
+  },
+  {
+    "id": "9",
+    "title": "Skin Fade Mohawk",
+    "desc": "is traditionally worn with shaved sides but this version features a short hawk, faded sides and surgical line.",
+    "image": "assets/images/hairstyles/men-skin-fade-mohawk.jpg",
+    "tag": "Men's Haircut"
+  },
+  {
+    "id": "10",
+    "title": "Buzz Fade",
+    "desc": "A buzz fade is the most stylish way to wear really short hair for men.",
+    "image": "assets/images/hairstyles/men-buzz-fade.jpg",
+    "tag": "Men's Haircut"
+  },
+  {
+    "id": "11",
+    "title": "Side Part + Mid Skin Fade",
+    "desc": "A mid skin fade makes hair on top appear even thicker and darker.",
+    "image": "assets/images/hairstyles/men-side-part-plus-mid-skin-fade.jpg",
+    "tag": "Men's Haircut"
+  },
+  {
+    "id": "12",
+    "title": "Textured Crop + Drop Fade",
+    "desc": "The textured crop with a fade is a major men’s hair trend this year and a great cut for summer.",
+    "image": "assets/images/hairstyles/men-textured-crop-plus-drop-fade.jpg",
+    "tag": "Men's Haircut"
+  },
+  {
+    "id": "13",
+    "title": "Quiff + Mid Fade",
+    "desc": "Short sides emphasize the height of this cool, modern quiff. A sharp edge at the temple goes right into a blurry fade for a cool contrast.",
+    "image": "assets/images/hairstyles/men-quiff-plus-mid-fade.jpg",
+    "tag": "Men's Haircut"
+  },
+  {
+    "id": "14",
+    "title": "Heavy Crop + Low Skin Fade",
+    "desc": "Skin fades lighten up thick hair for easier styling and keeping cool.",
+    "image": "assets/images/hairstyles/men-heavy-crop-plus-low-skin-fade.jpg",
+    "tag": "Men's Haircut"
+  },
+  {
+    "id": "15",
+    "title": "Curly Hair + Surgical Line + Drop Fade",
+    "desc": "Skin fades lighten up thick hair for easier styling and keeping cool.",
+    "image": "assets/images/hairstyles/men-curly-hair-plus-surgical-line-plus-drop-fade.jpg",
+    "tag": "Men's Haircut"
+  },
+  {
+    "id": "16",
+    "title": "Afro + Low Skin Fade",
+    "desc": "A low fade adds to the modern shape of this cool afro hairstyle.",
+    "image": "assets/images/hairstyles/men-afro-low-skin-fade.jpg",
+    "tag": "Men's Haircut"
+  },
+  {
+    "id": "17",
+    "title": "Short Textured Haircut For Boys",
+    "desc": "Short spiky styles are one of the most popular haircuts for boys. They also look great without styling but a touch of product goes beyond for special occasions or superhero outfits.",
+    "image": "assets/images/hairstyles/boy-short-textured-haircut.jpg",
+    "tag": "Boy's Haircut"
+  },
+  {
+    "id": "18",
+    "title": "Short Crop Haircut For Toddler Boys",
+    "desc": "Short spiky styles are one of the most popular haircuts for boys. They also look great without styling but a touch of product goes beyond for special occasions or superhero outfits.",
+    "image": "assets/images/hairstyles/boy-short-crop-haircut-for-toddler.jpg",
+    "tag": "Boy's Haircut"
+  },
+  {
+    "id": "19",
+    "title": "Boy’s Short Haircuts + Mid Fade",
+    "desc": "This textured crop is one of the top men’s hair trends of late and also one of the best haircuts for boys. It works for every hair type and tames wavy, curly, and thick hair.",
+    "image": "assets/images/hairstyles/boy-short-haircut-plus-mid-fade.jpg",
+    "tag": "Boy's Haircut"
+  },
+  {
+    "id": "20",
+    "title": "Textured Undercut Cool Haircut For Boys",
+    "desc": "Either the shaved star hair design or designer bedhead on top is cool but together, they are unstoppable.",
+    "image": "assets/images/hairstyles/boy-textured-undercut-cool-haircut-for-boys.jpg",
+    "tag": "Boy's Haircut"
+  },
+  {
+    "id": "21",
+    "title": "Buzz Cut + Fade Haircut For Boys",
+    "desc": "This combination of a buzz cut, line up, and fade is one of the most popular haircuts for men and kids alike. It’s super short but so smooth.",
+    "image": "assets/images/hairstyles/boy-buzz-cut-fade-haircut-for-boys.jpg",
+    "tag": "Boy's Haircut"
+  },
+  {
+    "id": "22",
+    "title": "Buzz Cut + Fade Haircut For Boys",
+    "desc": "It’s not too surprising that this trendy and popular short haircut for men is just as trendy and popular with boys. The cut is designed to enhance texture even without any hair gel or pomade.",
+    "image": "assets/images/hairstyles/boy-short-spiky-crop-haircut.jpg",
+    "tag": "Boy's Haircut"
+  },
+  {
+    "id": "23",
+    "title": "The Classic Boy’s Haircut",
+    "desc": "Here’s a fresh boy cut with that classic fringe and a modern fade at the back.",
+    "image": "assets/images/hairstyles/boy-the-classic-boys-haircut.jpg",
+    "tag": "Boy's Haircut"
+  },
+  {
+    "id": "24",
+    "title": "Cool Kid’s Haircuts For Short Hai",
+    "desc": "This short haircut wouldn’t be as exciting without the shaved line but it would still look good.",
+    "image": "assets/images/hairstyles/boy-cool-kids-haircuts-for-short-hair.jpg",
+    "tag": "Boy's Haircut"
+  },
+  {
+    "id": "25",
+    "title": "Boy’s Trendy Haircuts: Side Part",
+    "desc": "This comb over fade is a cool haircut that boys can wear. It’s so easy to style too. Work some pomade into the hair and comb it over to the side.",
+    "image": "assets/images/hairstyles/boy-boys-trendy-haircuts-side-part.jpg",
+    "tag": "Boy's Haircut"
+  },
+  {
+    "id": "26",
+    "title": "Short Hairstyles For Boys",
+    "desc": "Here’s a modern and young take on the Ivy League, the longer version of the crew cut.",
+    "image": "assets/images/hairstyles/boy-short-hairstyles-for-boys.jpg",
+    "tag": "Boy's Haircut"
+  },
+  {
+    "id": "27",
+    "title": "Short Haircut For Boys With High Fade",
+    "desc": "Here’s another haircut that’s popular with boys and men alike. It’s crisp, clean, easy to wear.",
+    "image": "assets/images/hairstyles/boy-short-haircut-for-boys-with-high-fade.jpg",
+    "tag": "Boy's Haircut"
+  },
+  {
+    "id": "28",
+    "title": "Very Short Little Boy Haircuts",
+    "desc": "This is a great looking short crop haircut for boys with a mid to high skin fade.",
+    "image": "assets/images/hairstyles/boy-very-short-little-boy-haircuts.jpg",
+    "tag": "Boy's Haircut"
+  },
+  {
+    "id": "29",
+    "title": "Boys Undercut + Hard Part + Slicked Comb Over",
+    "desc": "Here’s another example of revealing those lovely little boy features with a short haircut.",
+    "image": "assets/images/hairstyles/boy-boys-undercut-plus-hard-part-plus-slicked-comb-over.jpg",
+    "tag": "Boy's Haircut"
+  },
+  {
+    "id": "30",
+    "title": "Skater Boy Hair",
+    "desc": "That long side-swept fringe is the signature of skater boy hair.",
+    "image": "assets/images/hairstyles/boy-skater-boy-hair.jpg",
+    "tag": "Boy's Haircut"
+  },
+  {
+    "id": "31",
+    "title": "Soccer Haircuts for Boys",
+    "desc": "This undercut fade – side part – comb over hairstyle has been a favorite with soccer players because it looks great, even during a game. Grown-up haircuts can have the opposite effect and make kids look their age by revealing their youthful features.",
+    "image": "assets/images/hairstyles/boy-soccer-haircuts-for-boys.jpg",
+    "tag": "Boy's Haircut"
+  },
+  {
+    "id": "32",
+    "title": "Trendy Hairstyles for Boys",
+    "desc": "We’ll leave you with an on-trend look that is adorable for boys too. This is a heavy French crop with lots of length and weight in the fringe. Sides aren’t too short and have a taper fade for clean ages. It’s the ultimate balance of cute and cool.",
+    "image": "assets/images/hairstyles/boy-trendy-hairstyles-for-boys.jpg",
+    "tag": "Boy's Haircut"
+  }
+]
