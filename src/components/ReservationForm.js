@@ -1,10 +1,9 @@
 import React, { useState, useEffect } from "react";
-// import { WomenHairStyle } from "./WomenHairStyle";
-// import { MenHairStyle } from "./MenHairStyle";
 
 export const ReservationForm = () => {
   const [hairstyles, setHairstyles] = useState([]);
-  const [hairstyle, setHairstyle] = useState("Men's Haircut");
+  const [hairstylecategory, setHairstylecategory] = useState("Men's Haircut");
+  const [tagfade, setTagfade] = useState("Fade");
 
   useEffect(() => {
     const hairStylesData = require("../data/hairstyles.json");
@@ -27,42 +26,77 @@ export const ReservationForm = () => {
     return unique;
   };
 
-  const uniqueHairstyle = getUnique(hairstyles, "tag");
+  const uniqueHairstyle = getUnique(hairstyles, "category");
 
   const handleChangeHairstyle = (event) => {
-    setHairstyle(event.target.value);
+    setHairstylecategory(event.target.value);
   };
 
   const handleSubmitHairstyle = (event) => {
-    alert("Your selected value is: " + hairstyle);
+    alert("Your selected value is: " + hairstylecategory);
     event.preventDefault();
   };
 
+  const handleChangeTagFadeChkbox = (event) => {
+    // alert("Your selected value is: " + hairstylecategory);
+    // event.preventDefault();
+    setTagfade(event.target.value);
+  };
+
+  // Filters selected hairstyle category with selected tag
   const filterDropdown = hairstyles.filter((result) => {
-    return result.tag === hairstyle;
+    const tags = result.tags.split(",");
+    return result.category === hairstylecategory && tags.includes(tagfade);
   });
+
+  // TAGS
+  const hairstyleTags = [
+    { id: 1, name: "Fade" },
+    { id: 2, name: "None-Fade" },
+    { id: 3, name: "Undercut" },
+    { id: 5, name: "Skater Haircut" },
+    { id: 5, name: "Mohawk Haircut" },
+    { id: 6, name: "Short Length Haircut" },
+    { id: 7, name: "Medium Length Haircut" },
+    { id: 7, name: "Celebrity Haircut" },
+  ];
+
+  const handleChangeHairstyleTag = (event) => {
+    setTagfade(event.target.value);
+  };
 
   return (
     <>
       <form onSubmit={handleSubmitHairstyle}>
         <br />
         <label>
-          Select Hair Style
+          Select Category
           <select
             className="form-control"
-            value={hairstyle}
+            value={hairstylecategory}
             onChange={handleChangeHairstyle}
           >
             {uniqueHairstyle.map((hairstyle) => (
-              <option key={hairstyle.id} value={hairstyle.tag}>
-                {hairstyle.tag}
+              <option key={hairstyle.id} value={hairstyle.category}>
+                {hairstyle.category}
               </option>
             ))}
           </select>
         </label>
-
+        <br />
+        Filter By
+        <select
+          className="form-control"
+          value={tagfade}
+          onChange={handleChangeHairstyleTag}
+        >
+          {hairstyleTags.map((hairstyle) => (
+            <option key={hairstyle.id} value={hairstyle.name}>
+              {hairstyle.name}
+            </option>
+          ))}
+        </select>
         {/* <input type="submit" value="Submit" /> */}
-
         <div>
           {filterDropdown.map((hairstyle) => (
             <div key={hairstyle.id} style={{ margin: "10px" }}>
