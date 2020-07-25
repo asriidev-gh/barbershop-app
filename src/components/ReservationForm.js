@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
-
+import "../assets/css/Cards.css";
+import "../assets/css/Button.css";
 export const ReservationForm = () => {
   const [hairstyles, setHairstyles] = useState([]);
   const [hairstylecategory, setHairstylecategory] = useState("Men's Haircut");
@@ -67,10 +68,11 @@ export const ReservationForm = () => {
 
   return (
     <>
-      <form onSubmit={handleSubmitHairstyle}>
-        <br />
-        <label>
-          Select Category
+      <h3>Appointment Form</h3>
+      <div className="row">
+        {/* <form onSubmit={handleSubmitHairstyle}> */}
+        <div className="col-md-6">
+          <label>Select Category</label>
           <select
             className="form-control"
             value={hairstylecategory}
@@ -82,37 +84,60 @@ export const ReservationForm = () => {
               </option>
             ))}
           </select>
-        </label>
-        <br />
-        Filter By
-        <select
-          className="form-control"
-          value={tagfade}
-          onChange={handleChangeHairstyleTag}
-        >
-          {hairstyleTags.map((hairstyle) => (
-            <option key={hairstyle.id} value={hairstyle.name}>
-              {hairstyle.name}
-            </option>
-          ))}
-        </select>
-        {/* <input type="submit" value="Submit" /> */}
-        <div>
+        </div>
+
+        <div className="col-md-6">
+          <label>Filter By</label>
+          <select
+            className="form-control"
+            value={tagfade}
+            onChange={handleChangeHairstyleTag}
+          >
+            {hairstyleTags.map((hairstyle) => (
+              <option key={hairstyle.name} value={hairstyle.name}>
+                {hairstyle.name}
+              </option>
+            ))}
+          </select>
+        </div>
+
+        <div className="row row-horizon">
           {filterDropdown.map((hairstyle) => (
-            <div key={hairstyle.id} style={{ margin: "10px" }}>
-              {hairstyle.title}
-              <br />
-              <img
-                src={hairstyle.image}
-                alt={hairstyle.title}
-                width="300"
-                height="300"
-              />
-              <br />
+            <div key={hairstyle.id}>
+              <div className="card card-block">
+                <img
+                  src={hairstyle.image}
+                  alt={hairstyle.title}
+                  width="300"
+                  height="300"
+                />
+                <div className="container">
+                  <h4>
+                    <b>{hairstyle.title}</b>
+                  </h4>
+                  <p>{hairstyle.tags}</p>
+
+                  <div className="cardbtn">
+                    <input
+                      type="button"
+                      className="btn btn-sm btn-secondary"
+                      value="Details"
+                    />
+                    <input
+                      type="button"
+                      className="btn btn-sm btn-success"
+                      value="Choose"
+                    />
+                  </div>
+                </div>
+              </div>
             </div>
           ))}
+
+          {/* <input type="submit" value="Submit" /> */}
         </div>
-      </form>
+      </div>
+      {/* </form> */}
     </>
   );
 };
