@@ -5,6 +5,17 @@ export const ReservationForm = () => {
   const [hairstyles, setHairstyles] = useState([]);
   const [hairstylecategory, setHairstylecategory] = useState("Men's Haircut");
   const [tagfade, setTagfade] = useState("Fade");
+  const [selectedhairstyledetailstitle, setHairstyledetailstitle] = useState(
+    "Men's Haircut"
+  );
+  const [selectedhairstyledetailsdesc, setHairstyledetailsdesc] = useState(
+    "Men's Haircut"
+  );
+  const [selectedhairstyledetailsimage, setHairstyledetailsimage] = useState(
+    ""
+  );
+
+  const [selectedhairstyledetailstags, setHairstyledetailstags] = useState("");
 
   useEffect(() => {
     const hairStylesData = require("../data/hairstyles.json");
@@ -33,15 +44,16 @@ export const ReservationForm = () => {
     setHairstylecategory(event.target.value);
   };
 
-  const handleSubmitHairstyle = (event) => {
-    alert("Your selected value is: " + hairstylecategory);
-    event.preventDefault();
-  };
+  // const handleSubmitHairstyle = (event) => {
+  //   alert("Your selected value is: " + hairstylecategory);
+  //   event.preventDefault();
+  // };
 
-  const handleChangeTagFadeChkbox = (event) => {
-    // alert("Your selected value is: " + hairstylecategory);
-    // event.preventDefault();
-    setTagfade(event.target.value);
+  const handleClickShowHairStyleDetails = (event) => {
+    setHairstyledetailstitle(event.currentTarget.getAttribute("data-title"));
+    setHairstyledetailsdesc(event.currentTarget.getAttribute("data-desc"));
+    setHairstyledetailsimage(event.currentTarget.getAttribute("data-image"));
+    setHairstyledetailstags(event.currentTarget.getAttribute("data-tags"));
   };
 
   // Filters selected hairstyle category with selected tag
@@ -57,13 +69,30 @@ export const ReservationForm = () => {
     { id: 3, name: "Undercut" },
     { id: 5, name: "Skater Haircut" },
     { id: 5, name: "Mohawk Haircut" },
-    { id: 6, name: "Short Length Haircut" },
-    { id: 7, name: "Medium Length Haircut" },
-    { id: 7, name: "Celebrity Haircut" },
+    { id: 6, name: "Short Length" },
+    { id: 7, name: "Medium Length" },
+    { id: 8, name: "Celebrity Haircut" },
   ];
 
   const handleChangeHairstyleTag = (event) => {
     setTagfade(event.target.value);
+  };
+
+  const getTagColor = (tagname) => {
+    switch (tagname) {
+      case "Fade":
+        return "color1";
+      case "Skater Haircut":
+        return "color2";
+      case "None-Fade":
+        return "color3";
+      case "Undercut":
+        return "color4";
+      case "Mohawk Haircut":
+        return "color5";
+      default:
+        return "color5";
+    }
   };
 
   return (
@@ -103,25 +132,38 @@ export const ReservationForm = () => {
 
         <div className="row row-horizon">
           {filterDropdown.map((hairstyle) => (
-            <div key={hairstyle.id}>
+            <div key={hairstyle.id} className="col-md-4">
               <div className="card card-block">
                 <img
                   src={hairstyle.image}
                   alt={hairstyle.title}
-                  width="300"
-                  height="300"
+                  width="100%"
+                  height="350"
                 />
                 <div className="container">
-                  <h4>
+                  <h5>
                     <b>{hairstyle.title}</b>
-                  </h4>
-                  <p>{hairstyle.tags}</p>
-
+                  </h5>
+                  <div className="tags">
+                    {hairstyle.tags.split(",").map((tag) => (
+                      <a href="/" className={getTagColor(tag)}>
+                        {tag}
+                      </a>
+                    ))}
+                  </div>
+                  <hr />
                   <div className="cardbtn">
                     <input
                       type="button"
                       className="btn btn-sm btn-secondary"
                       value="Details"
+                      data-title={hairstyle.title}
+                      data-desc={hairstyle.desc}
+                      data-image={hairstyle.image}
+                      data-tags={hairstyle.tags}
+                      data-toggle="modal"
+                      data-target="#exampleModal"
+                      onClick={handleClickShowHairStyleDetails}
                     />
                     <input
                       type="button"
@@ -138,6 +180,59 @@ export const ReservationForm = () => {
         </div>
       </div>
       {/* </form> */}
+
+      <div
+        className="modal fade"
+        id="exampleModal"
+        role="dialog"
+        aria-labelledby="exampleModalLabel"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h5 className="modal-title" id="exampleModalLabel">
+                {selectedhairstyledetailstitle}
+              </h5>
+              <button
+                type="button"
+                className="close"
+                data-dismiss="modal"
+                aria-label="Close"
+              >
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div className="modal-body">
+              <img
+                alt={selectedhairstyledetailstitle}
+                src={selectedhairstyledetailsimage}
+                className="selectedCardImg"
+              />
+              <div className="tags">
+                {selectedhairstyledetailstags.split(",").map((tag) => (
+                  <a href="/" className={getTagColor(tag)}>
+                    {tag}
+                  </a>
+                ))}
+              </div>
+              <p>{selectedhairstyledetailsdesc}</p>
+            </div>
+            <div className="modal-footer">
+              <button
+                type="button"
+                className="btn btn-secondary"
+                data-dismiss="modal"
+              >
+                Close
+              </button>
+              <button type="button" className="btn btn-success">
+                Choose
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
     </>
   );
 };

@@ -2,26 +2,26 @@
   {
     "id": "1",
     "title": "Skin Fade Undercut",
-    "desc": "a fade and slicked back hair",
+    "desc": "A fade and slicked back hair",
     "image": "assets/images/hairstyles/men-skin-fade-undercut.jpg",
     "category": "Men's Haircut",
-    "tags": "Fade,Undercut,Medium Length Haircut"
+    "tags": "Fade,Undercut,Medium Length"
   },
   {
     "id": "2",
     "title": "Low Skin Fade",
-    "desc": "fading down to skin along the hairline creates a clean cut edge.",
+    "desc": "Fading down to skin along the hairline creates a clean cut edge.",
     "image": "assets/images/hairstyles/men-low-skin-fade.jpg",
     "category": "Men's Haircut",
-    "tags": "Fade,Short Length Haircut"
+    "tags": "Fade,Short Length"
   },
   {
     "id": "3",
     "title": "Mid Skin Fade",
-    "desc": "down to the skin puts the focus on long hair on top. It also makes for an easy to wear cut for guys with wavy or curly hair.",
+    "desc": "Down to the skin puts the focus on long hair on top. It also makes for an easy to wear cut for guys with wavy or curly hair.",
     "image": "assets/images/hairstyles/men-mid-skin-fade.jpg",
     "category": "Men's Haircut",
-    "tags": "Fade,Short Length Haircut"
+    "tags": "Fade,Short Length"
   },
   {
     "id": "4",
@@ -29,7 +29,7 @@
     "desc": "The high skin fade is also especially flattering for heart and round face shapes that don’t want to add volume at the sides.",
     "image": "assets/images/hairstyles/men-high-skin-fade.jpg",
     "category": "Men's Haircut",
-    "tags": "Fade,Medium Length Haircut"
+    "tags": "Fade,Medium Length"
   },
   {
     "id": "5",
@@ -37,7 +37,7 @@
     "desc": "This classic men’s hairstyle gets a modern update from a skin fade.",
     "image": "assets/images/hairstyles/men-skin-fade-comb-over.jpg",
     "category": "Men's Haircut",
-    "tags": "Fade,Medium Length Haircut"
+    "tags": "Fade,Medium Length"
   },
   {
     "id": "6",
@@ -45,7 +45,7 @@
     "desc": "The fresh styles is an exercise in contrasts with long texture on top and short, blurry sides.",
     "image": "assets/images/hairstyles/men-skin-fade-haircut-long-on-top.jpg",
     "category": "Men's Haircut",
-    "tags": "Fade,Medium Length Haircut"
+    "tags": "Fade,Medium Length"
   },
   {
     "id": "7",
@@ -53,7 +53,7 @@
     "desc": "can be worn so many ways. One of the most popular versions is with a high skin fade and maybe a subtle hair design.",
     "image": "assets/images/hairstyles/men-skin-fade-pompadour.jpg",
     "category": "Men's Haircut",
-    "tags": "Fade,Medium Length Haircut"
+    "tags": "Fade,Medium Length"
   },
   {
     "id": "8",
@@ -61,7 +61,7 @@
     "desc": "is another classic men’s hairstyle that gets a fresh update with a fade.",
     "image": "assets/images/hairstyles/men-low-skin-fade-comb-over.jpg",
     "category": "Men's Haircut",
-    "tags": "Fade,Medium Length Haircut"
+    "tags": "Fade,Medium Length"
   },
   {
     "id": "9",
@@ -69,7 +69,7 @@
     "desc": "is traditionally worn with shaved sides but this version features a short hawk, faded sides and surgical line.",
     "image": "assets/images/hairstyles/men-skin-fade-mohawk.jpg",
     "category": "Men's Haircut",
-    "tags": "Fade,Short Length Haircut,Mohawk Haircut"
+    "tags": "Fade,Short Length,Mohawk Haircut"
   },
   {
     "id": "10",
@@ -77,7 +77,7 @@
     "desc": "A buzz fade is the most stylish way to wear really short hair for men.",
     "image": "assets/images/hairstyles/men-buzz-fade.jpg",
     "category": "Men's Haircut",
-    "tags": "Fade,Short Length Haircut"
+    "tags": "Fade,Short Length"
   },
   {
     "id": "11",
@@ -85,7 +85,7 @@
     "desc": "A mid skin fade makes hair on top appear even thicker and darker.",
     "image": "assets/images/hairstyles/men-side-part-plus-mid-skin-fade.jpg",
     "category": "Men's Haircut",
-    "tags": "Fade,Medium Length Haircut"
+    "tags": "Fade,Medium Length"
   },
   {
     "id": "12",
@@ -93,7 +93,7 @@
     "desc": "The textured crop with a fade is a major men’s hair trend this year and a great cut for summer.",
     "image": "assets/images/hairstyles/men-textured-crop-plus-drop-fade.jpg",
     "category": "Men's Haircut",
-    "tags": "Fade,Short Length Haircut"
+    "tags": "Fade,Short Length"
   },
   {
     "id": "13",
@@ -101,7 +101,7 @@
     "desc": "Short sides emphasize the height of this cool, modern quiff. A sharp edge at the temple goes right into a blurry fade for a cool contrast.",
     "image": "assets/images/hairstyles/men-quiff-plus-mid-fade.jpg",
     "category": "Men's Haircut",
-    "tags": "Fade,Medium Length Haircut"
+    "tags": "Fade,Medium Length"
   },
   {
     "id": "14",
@@ -109,7 +109,7 @@
     "desc": "Skin fades lighten up thick hair for easier styling and keeping cool.",
     "image": "assets/images/hairstyles/men-heavy-crop-plus-low-skin-fade.jpg",
     "category": "Men's Haircut",
-    "tags": "Fade,Short Length Haircut"
+    "tags": "Fade,Short Length"
   },
   {
     "id": "15",
@@ -133,7 +133,7 @@
     "desc": "Short spiky styles are one of the most popular haircuts for boys. They also look great without styling but a touch of product goes beyond for special occasions or superhero outfits.",
     "image": "assets/images/hairstyles/boy-short-textured-haircut.jpg",
     "category": "Boy's Haircut",
-    "tags": "Fade,Short Length Haircut"
+    "tags": "Fade,Short Length"
   },
   {
     "id": "18",
@@ -149,7 +149,7 @@
     "desc": "This textured crop is one of the top men’s hair trends of late and also one of the best haircuts for boys. It works for every hair type and tames wavy, curly, and thick hair.",
     "image": "assets/images/hairstyles/boy-short-haircut-plus-mid-fade.jpg",
     "category": "Boy's Haircut",
-    "tags": "Fade,Short Length Haircut"
+    "tags": "Fade,Short Length"
   },
   {
     "id": "20",
@@ -165,7 +165,7 @@
     "desc": "This combination of a buzz cut, line up, and fade is one of the most popular haircuts for men and kids alike. It’s super short but so smooth.",
     "image": "assets/images/hairstyles/boy-buzz-cut-fade-haircut-for-boys.jpg",
     "category": "Boy's Haircut",
-    "tags": "Fade,Short Length Haircut"
+    "tags": "Fade,Short Length"
   },
   {
     "id": "22",
@@ -173,7 +173,7 @@
     "desc": "It’s not too surprising that this trendy and popular short haircut for men is just as trendy and popular with boys. The cut is designed to enhance texture even without any hair gel or pomade.",
     "image": "assets/images/hairstyles/boy-short-spiky-crop-haircut.jpg",
     "category": "Boy's Haircut",
-    "tags": "Fade,Short Length Haircut"
+    "tags": "Fade,Short Length"
   },
   {
     "id": "23",
@@ -181,7 +181,7 @@
     "desc": "Here’s a fresh boy cut with that classic fringe and a modern fade at the back.",
     "image": "assets/images/hairstyles/boy-the-classic-boys-haircut.jpg",
     "category": "Boy's Haircut",
-    "tags": "None-Fade,Medium Length Haircut"
+    "tags": "None-Fade,Medium Length"
   },
   {
     "id": "24",
@@ -189,7 +189,7 @@
     "desc": "This short haircut wouldn’t be as exciting without the shaved line but it would still look good.",
     "image": "assets/images/hairstyles/boy-cool-kids-haircuts-for-short-hair.jpg",
     "category": "Boy's Haircut",
-    "tags": "Fade,Short Length Haircut"
+    "tags": "Fade,Short Length"
   },
   {
     "id": "25",
@@ -197,7 +197,7 @@
     "desc": "This comb over fade is a cool haircut that boys can wear. It’s so easy to style too. Work some pomade into the hair and comb it over to the side.",
     "image": "assets/images/hairstyles/boy-boys-trendy-haircuts-side-part.jpg",
     "category": "Boy's Haircut",
-    "tags": "Fade,Short Length Haircut"
+    "tags": "Fade,Short Length"
   },
   {
     "id": "26",
@@ -205,7 +205,7 @@
     "desc": "Here’s a modern and young take on the Ivy League, the longer version of the crew cut.",
     "image": "assets/images/hairstyles/boy-short-hairstyles-for-boys.jpg",
     "category": "Boy's Haircut",
-    "tags": "Fade,Short Length Haircut"
+    "tags": "Fade,Short Length"
   },
   {
     "id": "27",
@@ -237,7 +237,7 @@
     "desc": "That long side-swept fringe is the signature of skater boy hair.",
     "image": "assets/images/hairstyles/boy-skater-boy-hair.jpg",
     "category": "Boy's Haircut",
-    "tags": "Stylish,None-Fade,Skater Haircut,Medium Length Haircut"
+    "tags": "Stylish,None-Fade,Skater Haircut,Medium Length"
   },
   {
     "id": "31",
@@ -245,7 +245,7 @@
     "desc": "This undercut fade – side part – comb over hairstyle has been a favorite with soccer players because it looks great, even during a game. Grown-up haircuts can have the opposite effect and make kids look their age by revealing their youthful features.",
     "image": "assets/images/hairstyles/boy-soccer-haircuts-for-boys.jpg",
     "category": "Boy's Haircut",
-    "tags": "Undercut,Medium Length Haircut"
+    "tags": "Undercut,Medium Length"
   },
   {
     "id": "32",
@@ -253,7 +253,7 @@
     "desc": "We’ll leave you with an on-trend look that is adorable for boys too. This is a heavy French crop with lots of length and weight in the fringe. Sides aren’t too short and have a taper fade for clean ages. It’s the ultimate balance of cute and cool.",
     "image": "assets/images/hairstyles/boy-trendy-hairstyles-for-boys.jpg",
     "category": "Boy's Haircut",
-    "tags": "Medium Length Haircut,None-Fade"
+    "tags": "Medium Length,None-Fade"
   },
   {
     "id": "33",
@@ -281,11 +281,11 @@
   },
   {
     "id": "36",
-    "title": "Choppy Textured Medium Length Haircut For Men",
+    "title": "Choppy Textured Medium Length For Men",
     "desc": "A few years ago it was all about short textured haircuts. Then things evolved into longer textured haircuts like this one. This is a good haircut for guys that have thicker hair whether your hair is coarse or fine. The textured cut makes the styling part easier. You can towel dry or do a quick blast blow dry. Then simply work a medium to strong hold pomade into the hair to bring the textures alive. Every day you can get a different look depending on the direction you move the hair into place. That is what is awesome about textured haircuts like this one.",
     "image": "assets/images/hairstyles/men-choppy-textured-medium-length-haircut-for-men.jpg",
     "category": "Men's Haircut",
-    "tags": "Medium Length Haircut,None-Fade"
+    "tags": "Medium Length,None-Fade"
   },
   {
     "id": "37",
@@ -293,7 +293,7 @@
     "desc": "A nice simple classic short haircut for men to get right now. The hair is styled a bit forward with a flip back and to the side in the front.",
     "image": "assets/images/hairstyles/men-cool-short-mens-haircut.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,Fade"
+    "tags": "Short Length,Fade"
   },
   {
     "id": "38",
@@ -301,7 +301,7 @@
     "desc": "This is a good haircut for guys that have fine or thin hair. The bald fade puts the focus on the medium to longer length hair on top. A haircut like this one will make it seem like you have more hair than you might have.",
     "image": "assets/images/hairstyles/men-modern-undercut-longer-hair.jpg",
     "category": "Men's Haircut",
-    "tags": "Medium Length Haircut,Undercut,None-Fade"
+    "tags": "Medium Length,Undercut,None-Fade"
   },
   {
     "id": "39",
@@ -309,7 +309,7 @@
     "desc": "A nice simple classic short haircut for men to get right now. The hair is styled a bit forward with a flip back and to the side in the front.",
     "image": "assets/images/hairstyles/men-textured-haircut-for-short-hair.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,None-Fade"
+    "tags": "Short Length,None-Fade"
   },
   {
     "id": "40",
@@ -317,7 +317,7 @@
     "desc": "One of the most popular men’s haircuts for short hair. The blunt cut crop haircut. This haircut is the best haircut for all hair types. It will work for thick hair, curly or wavy hair, or super fine straight hair. Also one of the most popular boy’s haircuts.",
     "image": "assets/images/hairstyles/men-cool-short-crop-haircut-low-fade.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,Fade"
+    "tags": "Short Length,Fade"
   },
   {
     "id": "41",
@@ -325,7 +325,7 @@
     "desc": "A super cool mohawk fade with a surgical part dividing the fade",
     "image": "assets/images/hairstyles/men-hi-lo-mohawk-fade-haircut.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,Fade,Mohawk Haircut"
+    "tags": "Short Length,Fade,Mohawk Haircut"
   },
   {
     "id": "42",
@@ -333,7 +333,7 @@
     "desc": "Mohawks are also trending and popular these days. This mohawk haircut looks amazing with a bald drop fade and disconnected beard. Style with a pomade that has shine to get this look. These types of men’s haircuts are super cool.",
     "image": "assets/images/hairstyles/men-cool-mohawk-drop-fade.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,Fade,Mohawk Haircut"
+    "tags": "Short Length,Fade,Mohawk Haircut"
   },
   {
     "id": "43",
@@ -341,7 +341,7 @@
     "desc": "Mohawks are also trending and popular these days. This mohawk haircut looks amazing with a bald drop fade and disconnected beard. Style with a pomade that has shine to get this look. These types of men’s haircuts are super cool.",
     "image": "assets/images/hairstyles/men-side-part-hairstyle-long-fringe-mid-fade.jpg",
     "category": "Men's Haircut",
-    "tags": "Medium Length Haircut,Fade"
+    "tags": "Medium Length,Fade"
   },
   {
     "id": "44",
@@ -349,7 +349,7 @@
     "desc": "Finally we have a great looking medium length textured haircut for men with a perfect low fade.",
     "image": "assets/images/hairstyles/men-low-fade-medium-textured-hair-on-top.jpg",
     "category": "Men's Haircut",
-    "tags": "Medium Length Haircut,Fade"
+    "tags": "Medium Length,Fade"
   },
   {
     "id": "45",
@@ -357,7 +357,7 @@
     "desc": "The buzz cut never looked so good. This short style features a touch of length at the top with a line up and high fade to clean it up at the hairline and sides.",
     "image": "assets/images/hairstyles/men-long-buzz-line-up.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,Fade"
+    "tags": "Short Length,Fade"
   },
   {
     "id": "46",
@@ -365,7 +365,7 @@
     "desc": "Combed styles like pomps and slick backs frequently have long hair but not always. This cool short men’s hairstyle features a shaved part and hair combed over in the opposite direction.",
     "image": "assets/images/hairstyles/men-short-side-part-hair.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,Fade"
+    "tags": "Short Length,Fade"
   },
   {
     "id": "47",
@@ -373,7 +373,7 @@
     "desc": "Spice up hair of every length with a hair design. This textured crop gets extra detail from a surgical line over the taper fade.",
     "image": "assets/images/hairstyles/men-crop-shaved-line.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,Fade"
+    "tags": "Short Length,Fade"
   },
   {
     "id": "48",
@@ -381,7 +381,7 @@
     "desc": "This short crew cut is combed over from the back and at the quiff at the front.",
     "image": "assets/images/hairstyles/men-crew-cut-comb-over.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,Fade"
+    "tags": "Short Length,Fade"
   },
   {
     "id": "49",
@@ -389,7 +389,7 @@
     "desc": "The crew cut is can be clean cut, professional, and cool all the same time.",
     "image": "assets/images/hairstyles/men-cool-crew-cut.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,Fade"
+    "tags": "Short Length,Fade"
   },
   {
     "id": "50",
@@ -397,7 +397,7 @@
     "desc": "The smooth taper and length on top of the head create a nice contrast that’s ideal for all hair types and face shapes, including guys with round faces. It’s a style you’ve most likely seen other guys sporting, and it’s common because of its simplicity and classic appearance.",
     "image": "assets/images/hairstyles/men-celeb1-classic-taper.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,Celebrity Haircut"
+    "tags": "Short Length,Celebrity Haircut"
   },
   {
     "id": "51",
@@ -405,7 +405,7 @@
     "desc": "Like the classic taper haircut, the Ivy League features a taper that adds a touch of cleanliness to the style. It’s also a nice low maintenance haircut that’s ideal for those busy weekday mornings. You can get up and go with minimal hassle and still have a professional hairstyle that looks sharp.",
     "image": "assets/images/hairstyles/men-celeb3-slicked-back.jpg",
     "category": "Men's Haircut",
-    "tags": "Medium Length Haircut,Celebrity Haircut"
+    "tags": "Medium Length,Celebrity Haircut"
   },
   {
     "id": "52",
@@ -413,7 +413,7 @@
     "desc": "Pompadours are generally thought of as more eye-catching haircuts, with Elvis Presley’s pompadour as a notable example. However, a short and tight pompadour can tame curly or wavy hair and give you the clean, professional look you’re after.",
     "image": "assets/images/hairstyles/men-celeb4-pompadour.jpg",
     "category": "Men's Haircut",
-    "tags": "Medium Length Haircut,Celebrity Haircut"
+    "tags": "Medium Length,Celebrity Haircut"
   },
   {
     "id": "53",
@@ -421,7 +421,7 @@
     "desc": "The butch cut is ideal for guys who don’t have the time to style their hair. And if you like a cut that’s not super short or super long, the butch cut also works for you. You can even do it yourself at home to save both time and money in addition to getting a nice, work-approved hairstyle.",
     "image": "assets/images/hairstyles/men-celeb5-butchcut.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,Celebrity Haircut"
+    "tags": "Short Length,Celebrity Haircut"
   },
   {
     "id": "54",
@@ -429,7 +429,7 @@
     "desc": "Short but sweet. The trimmed, close-cut Ivy League will fit in at school or work while remaining casual for after-hours relaxing.",
     "image": "assets/images/hairstyles/men-celeb6-ivy-league-short.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,Celebrity Haircut"
+    "tags": "Short Length,Celebrity Haircut"
   },
   {
     "id": "55",
@@ -437,7 +437,7 @@
     "desc": "This fashionable combo of a side part and slicked back hair will up your cool factor. Pair with a fade on the side for a high-contrast look that shines.",
     "image": "assets/images/hairstyles/men-celeb7-slicked-back-and-side-part.jpg",
     "category": "Men's Haircut",
-    "tags": "Medium Length Haircut,Celebrity Haircut"
+    "tags": "Medium Length,Celebrity Haircut"
   },
   {
     "id": "56",
@@ -445,7 +445,7 @@
     "desc": "You can’t go wrong with a classic taper haircut. You can wear the basic style or experiment with it to make a style of your own.",
     "image": "assets/images/hairstyles/men-celeb8-classic-tapered-comb-over.jpg",
     "category": "Men's Haircut",
-    "tags": "Medium Length Haircut,Celebrity Haircut"
+    "tags": "Medium Length,Celebrity Haircut"
   },
   {
     "id": "57",
@@ -453,7 +453,7 @@
     "desc": "The crew cut is both business-casual and utilitarian. If you find yourself exercising or going outdoors often, a crew cut will be your best friend.",
     "image": "assets/images/hairstyles/men-celeb9-crew-cut.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,Celebrity Haircut"
+    "tags": "Short Length,Celebrity Haircut"
   },
   {
     "id": "58",
@@ -461,7 +461,7 @@
     "desc": "If you like parting your hair, check out this side part variation. Classy and refined, this side part is simple to sport but says a lot.",
     "image": "assets/images/hairstyles/men-celeb10-side-part.jpg",
     "category": "Men's Haircut",
-    "tags": "Medium Length Haircut,Celebrity Haircut"
+    "tags": "Medium Length,Celebrity Haircut"
   },
   {
     "id": "59",
@@ -469,7 +469,7 @@
     "desc": "Try this close cut on for size. It’s subtle from a distance but becomes more noticeable at a closer look.",
     "image": "assets/images/hairstyles/men-celeb11-close-cut.jpg",
     "category": "Men's Haircut",
-    "tags": "Medium Length Haircut,Celebrity Haircut"
+    "tags": "Medium Length,Celebrity Haircut"
   },
   {
     "id": "60",
@@ -477,7 +477,7 @@
     "desc": "This modest, classic style is built around a thin, subtle side part. This gives the hair just the right amount of direction and motion.",
     "image": "assets/images/hairstyles/men-celeb12-jonas-thin-side-part.jpg",
     "category": "Men's Haircut",
-    "tags": "Medium Length Haircut,Celebrity Haircut"
+    "tags": "Medium Length,Celebrity Haircut"
   },
   {
     "id": "61",
@@ -485,7 +485,7 @@
     "desc": "Professional haircuts don’t have to be super short. You can grow your hair out and still keep it formal with a style like this one. It’s still a traditional business cut, just with a bit of volume.",
     "image": "assets/images/hairstyles/men-celeb13-high-volume-classic-cut.jpg",
     "category": "Men's Haircut",
-    "tags": "Medium Length Haircut,Celebrity Haircut"
+    "tags": "Medium Length,Celebrity Haircut"
   },
   {
     "id": "62",
@@ -493,7 +493,7 @@
     "desc": "The induction cut has grown from a military routine to a style in its own right. It’s a good choice for guys who want extremely short hair but don’t want to completely shave their heads.",
     "image": "assets/images/hairstyles/men-celeb14-induction-cut.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,Celebrity Haircut"
+    "tags": "Short Length,Celebrity Haircut"
   },
   {
     "id": "63",
@@ -501,7 +501,7 @@
     "desc": "The induction cut has grown from a military routine to a style in its own right. It’s a good choice for guys who want extremely short hair but don’t want to completely shave their heads.",
     "image": "assets/images/hairstyles/men-celeb15-slicked-back-disconnected-undercut.jpg",
     "category": "Men's Haircut",
-    "tags": "Medium Length Haircut,Undercut,Celebrity Haircut"
+    "tags": "Medium Length,Undercut,Celebrity Haircut"
   },
   {
     "id": "64",
@@ -509,7 +509,7 @@
     "desc": "The induction cut has grown from a military routine to a style in its own right. It’s a good choice for guys who want extremely short hair but don’t want to completely shave their heads.",
     "image": "assets/images/hairstyles/men-celeb16-side-styled-medium-business-cut.jpg",
     "category": "Men's Haircut",
-    "tags": "Medium Length Haircut,Celebrity Haircut"
+    "tags": "Medium Length,Celebrity Haircut"
   },
   {
     "id": "65",
@@ -517,7 +517,7 @@
     "desc": "Another fashionable take on short spiky hair, this spiky undercut has just the right amount of texture. It’s not overwhelming, but it’s definitely still a spiky style. The undercut on the sides keeps everything neat.",
     "image": "assets/images/hairstyles/men-celeb17-faux-hawk.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,Undercut,Celebrity Haircut"
+    "tags": "Short Length,Undercut,Celebrity Haircut"
   },
   {
     "id": "66",
@@ -525,7 +525,7 @@
     "desc": "The faux hawk is a middle of the road haircut when it comes to spiky hairstyles. It’s not the most extreme style on this list, but it’s also not the most conservative.",
     "image": "assets/images/hairstyles/men-celeb18-jeremy-renner-spiky-undercut.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,Undercut,Celebrity Haircut"
+    "tags": "Short Length,Undercut,Celebrity Haircut"
   },
   {
     "id": "67",
@@ -533,7 +533,7 @@
     "desc": "Spiky hair doesn’t have to be messy. If you want to rock spikes in a different way, this neat spiked style might be for you.",
     "image": "assets/images/hairstyles/men-celeb19-sid-turned-thin-texture.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,Celebrity Haircut"
+    "tags": "Short Length,Celebrity Haircut"
   },
   {
     "id": "68",
@@ -541,7 +541,7 @@
     "desc": "This classic slick should fall into every Asian guy’s classy hairstyle repertoire.",
     "image": "assets/images/hairstyles/men-tapered-classic-slick-back.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,None-Fade"
+    "tags": "Short Length,None-Fade"
   },
   {
     "id": "69",
@@ -549,7 +549,7 @@
     "desc": "Sometimes gel is an Asian man’s best friend. The neatly brushed hair on top will stay in place with a dab or two of it. The skin fade adds dimension to the man’s face.",
     "image": "assets/images/hairstyles/men-neatly-side-brushed-hair-with-low-faded-sides.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,None-Fade"
+    "tags": "Short Length,None-Fade"
   },
   {
     "id": "70",
@@ -557,7 +557,7 @@
     "desc": "Asian men’s hairstyles are all about taking the ordinary and making it a bit fancy. The triangular brush up on the front here does just that.",
     "image": "assets/images/hairstyles/men-triangular-brush-up.jpg",
     "category": "Men's Haircut",
-    "tags": "Short Length Haircut,None-Fade"
+    "tags": "Short Length,None-Fade"
   },
   {
     "id": "71",
@@ -565,7 +565,7 @@
     "desc": "Skin fades are all the rage in Asia now. This drop fade goes about halfway up his head and takes a few years off his age.",
     "image": "assets/images/hairstyles/men-undercut-bun-with-slit-line-up.jpg",
     "category": "Men's Haircut",
-    "tags": "Medium Length Haircut,Fade"
+    "tags": "Medium Length,Fade"
   },
   {
     "id": "72",
@@ -573,7 +573,7 @@
     "desc": "He might be small in size, but it shouldn’t stop him from having a big quiff moment like this one. Make sure his top hair is a few inches long for easy styling and keep the sides short and tapered for contrast.",
     "image": "assets/images/hairstyles/boy-heavy-quiff-with-tapered-sides.jpg",
     "category": "Boy's Haircut",
-    "tags": "Medium Length Haircut,Fade"
+    "tags": "Medium Length,Fade"
   },
   {
     "id": "73",
@@ -581,6 +581,14 @@
     "desc": "With the french crop variations making a comeback on the little ones, don’t be surprised if your boy suddenly gets scouted to become a model. With a cool hairstyle and a charming smile like this, he’ll be the next face of Gap Kids.",
     "image": "assets/images/hairstyles/boy-with-bangs.jpg",
     "category": "Boy's Haircut",
-    "tags": "Medium Length Haircut,Fade"
+    "tags": "Medium Length,Fade"
+  },
+  {
+    "id": "74",
+    "title": "Short Haircut with Curls",
+    "desc": "First up on our list of gorgeous short haircuts for women is this glam hair idea. For this style the hair is very short around the sides and long on the top. The hair on the top is textured and curly. It is such a beautiful hairstyle and it will give you an edgy and trendy look every day.",
+    "image": "assets/images/hairstyles/women-short-with-curls.jpg",
+    "category": "Woman's Haircut",
+    "tags": "Short Length,Curl"
   }
 ]

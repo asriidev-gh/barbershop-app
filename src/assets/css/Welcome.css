@@ -35,3 +35,7 @@
 .welcomTxt {
   color: #ffffff;
 }
+
+.hero-wrap {
+  background-image: url(../images/bg-2.jpg);
+}
