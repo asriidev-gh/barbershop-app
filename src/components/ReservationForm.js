@@ -4,7 +4,7 @@ import "../assets/css/Button.css";
 export const ReservationForm = () => {
   const [hairstyles, setHairstyles] = useState([]);
   const [hairstylecategory, setHairstylecategory] = useState("Men's Haircut");
-  const [tagfade, setTagfade] = useState("Fade");
+  const [hairstyletag, setHairstyleTag] = useState("Fade");
   const [selectedhairstyledetailstitle, setHairstyledetailstitle] = useState(
     "Men's Haircut"
   );
@@ -40,10 +40,6 @@ export const ReservationForm = () => {
 
   const uniqueHairstyle = getUnique(hairstyles, "category");
 
-  const handleChangeHairstyle = (event) => {
-    setHairstylecategory(event.target.value);
-  };
-
   // const handleSubmitHairstyle = (event) => {
   //   alert("Your selected value is: " + hairstylecategory);
   //   event.preventDefault();
@@ -59,23 +55,42 @@ export const ReservationForm = () => {
   // Filters selected hairstyle category with selected tag
   const filterDropdown = hairstyles.filter((result) => {
     const tags = result.tags.split(",");
-    return result.category === hairstylecategory && tags.includes(tagfade);
+    return result.category === hairstylecategory && tags.includes(hairstyletag);
   });
 
   // TAGS
-  const hairstyleTags = [
+  const hairstyleTagsForMen = [
     { id: 1, name: "Fade" },
     { id: 2, name: "None-Fade" },
     { id: 3, name: "Undercut" },
     { id: 5, name: "Skater Haircut" },
-    { id: 5, name: "Mohawk Haircut" },
-    { id: 6, name: "Short Length" },
-    { id: 7, name: "Medium Length" },
-    { id: 8, name: "Celebrity Haircut" },
+    { id: 6, name: "Mohawk Haircut" },
+    { id: 7, name: "Short Length" },
+    { id: 8, name: "Medium Length" },
+    { id: 9, name: "Celebrity Haircut" },
   ];
 
+  const hairstyleTagsForBoys = [
+    { id: 1, name: "Fade" },
+    { id: 2, name: "None-Fade" },
+    { id: 3, name: "Undercut" },
+    { id: 5, name: "Skater Haircut" },
+    { id: 6, name: "Short Length" },
+    { id: 7, name: "Medium Length" },
+  ];
+
+  const hairstyleTagsForWomen = [
+    { id: 1, name: "Short Length" },
+    { id: 2, name: "Medium Length" },
+    { id: 3, name: "Long Length" },
+    { id: 4, name: "Curl" },
+    { id: 5, name: "Celebrity Haircut" },
+  ];
+
+  const [hairstyletags, setHairstyletags] = useState(hairstyleTagsForMen);
+
   const handleChangeHairstyleTag = (event) => {
-    setTagfade(event.target.value);
+    setHairstyleTag(event.target.value);
   };
 
   const getTagColor = (tagname) => {
@@ -90,8 +105,26 @@ export const ReservationForm = () => {
         return "color4";
       case "Mohawk Haircut":
         return "color5";
+      case "Hairstyle With Color":
+        return "color2";
+      case "Curl":
+        return "color3";
       default:
         return "color5";
+    }
+  };
+
+  const handleChangeHairstyleCategory = (event) => {
+    setHairstylecategory(event.target.value);
+    if (event.target.value === "Men's Haircut") {
+      setHairstyletags(hairstyleTagsForMen);
+      setHairstyleTag("Fade");
+    } else if (event.target.value === "Women's Haircut") {
+      setHairstyletags(hairstyleTagsForWomen);
+      setHairstyleTag("Short Length");
+    } else if (event.target.value === "Boy's Haircut") {
+      setHairstyletags(hairstyleTagsForBoys);
+      setHairstyleTag("Fade");
     }
   };
 
@@ -105,7 +138,7 @@ export const ReservationForm = () => {
           <select
             className="form-control"
             value={hairstylecategory}
-            onChange={handleChangeHairstyle}
+            onChange={handleChangeHairstyleCategory}
           >
             {uniqueHairstyle.map((hairstyle) => (
               <option key={hairstyle.id} value={hairstyle.category}>
@@ -119,10 +152,10 @@ export const ReservationForm = () => {
           <label>Filter By</label>
           <select
             className="form-control"
-            value={tagfade}
+            value={hairstyletag}
             onChange={handleChangeHairstyleTag}
           >
-            {hairstyleTags.map((hairstyle) => (
+            {hairstyletags.map((hairstyle) => (
               <option key={hairstyle.name} value={hairstyle.name}>
                 {hairstyle.name}
               </option>
@@ -146,7 +179,7 @@ export const ReservationForm = () => {
                   </h5>
                   <div className="tags">
                     {hairstyle.tags.split(",").map((tag) => (
-                      <a href="/" className={getTagColor(tag)}>
+                      <a href="/" key={tag} className={getTagColor(tag)}>
                         {tag}
                       </a>
                     ))}
@@ -180,7 +213,6 @@ export const ReservationForm = () => {
         </div>
       </div>
       {/* </form> */}
-
       <div
         className="modal fade"
         id="exampleModal"
@@ -211,7 +243,7 @@ export const ReservationForm = () => {
               />
               <div className="tags">
                 {selectedhairstyledetailstags.split(",").map((tag) => (
-                  <a href="/" className={getTagColor(tag)}>
+                  <a href="/" key="tag" className={getTagColor(tag)}>
                     {tag}
                   </a>
                 ))}

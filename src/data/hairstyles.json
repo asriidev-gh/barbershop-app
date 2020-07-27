@@ -588,7 +588,311 @@
     "title": "Short Haircut with Curls",
     "desc": "First up on our list of gorgeous short haircuts for women is this glam hair idea. For this style the hair is very short around the sides and long on the top. The hair on the top is textured and curly. It is such a beautiful hairstyle and it will give you an edgy and trendy look every day.",
     "image": "assets/images/hairstyles/women-short-with-curls.jpg",
-    "category": "Woman's Haircut",
-    "tags": "Short Length,Curl"
+    "category": "Women's Haircut",
+    "tags": "Short Length,Curl,Hairstyle With Color"
+  },
+  {
+    "id": "75",
+    "title": "Icy Blonde with undercut",
+    "desc": "If you would like to completely transform your hair, then this short haircut could be for you. Here have a blonde undercut. An undercut is where the hair is long on the top and shaved around the sides. This is such a trendsetting hair idea, especially as the hair is any icy shade too. Recreate this hair idea or try a similar cut in a different color.",
+    "image": "assets/images/hairstyles/women-icy-blonde-haircut-with-undercut.jpg",
+    "category": "Women's Haircut",
+    "tags": "Short Length,Undercut,Hairstyle With Color"
+  },
+  {
+    "id": "76",
+    "title": "Simple & Stylish Short Hair",
+    "desc": "Looking for a simpler hairstyle? Here we have a stylish short, layered cut. It is a chic hairstyle that looks both modern and classic. This is perfect for the ladies that want short hair that is easy to style and wear.",
+    "image": "assets/images/hairstyles/women-simple-stylish-short-hair.jpg",
+    "category": "Women's Haircut",
+    "tags": "Short Length,Layer"
+  },
+  {
+    "id": "77",
+    "title": "Stylish Graduated Short Haircut",
+    "desc": "If the short shaved looks are not your thing, then try something like this. Here we have a short graduated hairstyle. A graduated cut involves layers in the hair that start short and get longer, creating a cool finished style. Here we have a gorgeous example of a graduated cut. It is giving us Victoria Beckham vibes so is perfect for the ladies who like to look trendy every day.",
+    "image": "assets/images/hairstyles/women-stylish-graduated-short-haircut.jpg",
+    "category": "Women's Haircut",
+    "tags": "Short Length"
+  },
+  {
+    "id": "78",
+    "title": "Modern Short Haircut",
+    "desc": "Modern and trendsetting hair. For this look the hair is very short and shaved around the back and sides. Then the hair is a little longer on the top. It is more choppy and textured than some of the similar styles which is what makes it stand out. Short haircuts like this would look amazing in a bright color like light pink or blonde.",
+    "image": "assets/images/hairstyles/women-modern-short-hair.jpg",
+    "category": "Women's Haircut",
+    "tags": "Short Length,Hairstyle With Color"
+  },
+  {
+    "id": "79",
+    "title": "Cute, Medium Short Haircut",
+    "desc": "Another popular short hairstyle is the bob and next we have a beautiful bob to show you. This one is just a little longer than chin length, it has a side part and has been styled with curls too. It is a chic haircut that will suit everyone. A bob is a great choice for the ladies who want to try short hair without going too short. You can also try bobs in shorter and longer lengths too.",
+    "image": "assets/images/hairstyles/women-cute-medium-short-haircut.jpg",
+    "category": "Women's Haircut",
+    "tags": "Medium Length,Hairstyle With Color"
+  },
+  {
+    "id": "80",
+    "title": "Short in the back Long in the front",
+    "desc": "Modern and trendsetting hair. For this look the hair is very short and shaved around the back and sides. Then the hair is a little longer on the top. It is more choppy and textured than some of the similar styles which is what makes it stand out. Short haircuts like this would look amazing in a bright color like light pink or blonde.",
+    "image": "assets/images/hairstyles/women-shortintheback-longinthefront.jpg",
+    "category": "Women's Haircut",
+    "tags": "Short Length,Hairstyle With Color"
+  },
+  {
+    "id": "81",
+    "title": "Super Short Haircut with Bangs",
+    "desc": "Want hair that makes you stand out from the crowd? Then you need to check out this idea! For this look the hair is short and shaved but it is a little longer at the front. The hair has also been dyed in light grey shade. Grey is a super stylish color and can be worn with any short cut.",
+    "image": "assets/images/hairstyles/women-super-short-haircut-with-bangs.jpg",
+    "category": "Women's Haircut",
+    "tags": "Short Length,Hairstyle With Color"
+  },
+  {
+    "id": "82",
+    "title": "Edgy Short Haircut",
+    "desc": "Looking for an edgy short haircut? Then this is for you! The hair has been shaved around the back and sides but one side has been left longer. This creates a side shave style. As you can see, the longer curls look amazing and you get the best of both worlds – a gorgeous short cut and longer hair that can be styled too.",
+    "image": "assets/images/hairstyles/women-edgy-shorthaircut.jpg",
+    "category": "Women's Haircut",
+    "tags": "Short Length,Undercut"
+  },
+  {
+    "id": "83",
+    "title": "Gorgeous Short Grey Haircut",
+    "desc": "Earlier we featured a grey hairstyle. If you love the grey looks, then check out this next idea. For this one, the hair is simple and short with a side part. The hair has also been colored with a metallic grey shade. This grey color is darker than the last one we shown you and it creates more of a statement look. It is the perfect hairstyle for the ladies who like to be bold. A grey color like this will look great on all short haircuts.",
+    "image": "assets/images/hairstyles/women-gorgeuos-short-haircut.jpg",
+    "category": "Women's Haircut",
+    "tags": "Short Length,Hairstyle With Color"
+  },
+  {
+    "id": "84",
+    "title": "Cute Short Pixie Haircut",
+    "desc": "The hair is shaved a little around the back and sides, but then the hair gets longer towards the top. There are also straight across bangs too. This is a simple but super stylish look. It is perfect for the ladies who like their hair very short.",
+    "image": "assets/images/hairstyles/women-cute-pixie-short-haircut.jpg",
+    "category": "Women's Haircut",
+    "tags": "Short Length"
+  },
+  {
+    "id": "85",
+    "title": "Short Sides, Long Blonde Top",
+    "desc": "The hair is dark and shaved around the back and sides while the top layer of hair is long and blonde. We love this hair idea because of the color combination and the layered look. It is a cool and edgy style that will suit everyone. You can recreate this look or choose any color for the top layer of hair.",
+    "image": "assets/images/hairstyles/women-short-sides-long-blonde-top.jpg",
+    "category": "Women's Haircut",
+    "tags": "Short Length,Hairstyle With Color"
+  },
+  {
+    "id": "86",
+    "title": "Sleek, Short Pixie Cut",
+    "desc": "It is a sleek and chic hairstyle with a side part. Hair like this looks effortlessly beautiful and is easy to wear and style. With hair like this, you will look stylish and glam every day!",
+    "image": "assets/images/hairstyles/women-sleek-short-pixie-cut.jpg",
+    "category": "Women's Haircut",
+    "tags": "Short Length"
+  },
+  {
+    "id": "87",
+    "title": "Chick Chestnut Long Bob Cut",
+    "desc": "So, the hair is mid length with curls and added highlights. It just shows a beautiful style that you can try with the chestnut brown color. This is another great style for the summer as it has that beachy vibe. Recreate this or you can try the cut and color with straight hair too.",
+    "image": "assets/images/hairstyles/women-chick-chestnut-long-bob-cut.jpg",
+    "category": "Women's Haircut",
+    "tags": "Medium Length,Curl,Hairstyle With Color"
+  },
+  {
+    "id": "88",
+    "title": "Chick Sleek Bob",
+    "desc": "Here we we have a sleek and chic bob. The hair is cut into a short chin length bob with highlights. All of the hair is swept back to create a very stylish and sophisticated look. If you want to completely transform your hair, then go for the cut and color.",
+    "image": "assets/images/hairstyles/women-chick-sleek-bob.jpg",
+    "category": "Women's Haircut",
+    "tags": "Medium Length,Hairstyle With Color"
+  },
+  {
+    "id": "89",
+    "title": "Retro Cut with Bangs",
+    "desc": "Everyone loves retro. Whether that be TV shows, clothes and now hair too! Here is a cute and stylish cut that is perfect for those who prefer the trends of times gone by. As you can see, the hair is cut into a layered shag style. It is a beautiful chestnut color. This is fun, unique and edgy hair idea that will make you stand out from the crowd in style.",
+    "image": "assets/images/hairstyles/women-retro-chestnut-cut.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color,Curl,Layer"
+  },
+  {
+    "id": "90",
+    "title": "Sun-Kissed Hair",
+    "desc": "Bold, stylish and sun-kissed. This style features long chestnut waves with added blonde highlights. The blonde shade is quite warm so it compliments the brown perfectly. This is another summery hairstyle and it is perfect for the upcoming warmer seasons. For the fall and winter try an even warmer brown shade such as caramel.",
+    "image": "assets/images/hairstyles/women-sun-kissed-hair.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color,Curl"
+  },
+  {
+    "id": "91",
+    "title": "Long Chestnut Hair",
+    "desc": "If you love curls and long hair, then you need to check out this hair idea. Here we have dark brown hair with added chestnut color about midway. The hair is also styled into soft curls. This is a pretty and easy to wear hairstyle that will glam up your look. The cut, color and style are versatile and will suit any occasion from work to a night out.",
+    "image": "assets/images/hairstyles/women-long-chestnut-curls.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color,Curl"
+  },
+  {
+    "id": "92",
+    "title": "Chic Chestnut Hihglights",
+    "desc": "Layered cuts have become a must-have and here is how to wear the trend in style. Here we have dark brown hair with chestnut highlights. We love this because the chestnut color really makes the layers stand out. This is a very chic and gorgeous hair idea that will suit everyone. You can try a shorter version of the layered cut, that would look stunning as well.",
+    "image": "assets/images/hairstyles/women-chic-chestnut-hair.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color,Curl,Layer"
+  },
+  {
+    "id": "93",
+    "title": "Chestnut Hair with Blonde Highlights",
+    "desc": "So pretty and summery. For this look, the long hair is styled into beach waves. Most of the hair is a chestnut color with added blonde balayage highlights. The brighter blonde really jazzes up the chestnut color and it looks so beachy and stylish. If you want to jazz up your hair for the summer, try something similar. Different blonde shades will suit chestnut hair color, both warm and cool.",
+    "image": "assets/images/hairstyles/women-chestnut-hair-with-blonde-highlights.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color,Curl"
+  },
+  {
+    "id": "94",
+    "title": "Glam Color Met",
+    "desc": "Glam up your look, Here we have long and beautiful hair. The root is dark, then the hair blends to a lighter brown tone and then it changes again to a warm chestnut brown. We love this color melt and the overall style is stunning. The color will look amazing on everyone and the soft waves are perfect for a special occasion.",
+    "image": "assets/images/hairstyles/women-glam-color-melt.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color"
+  },
+  {
+    "id": "95",
+    "title": "Chestnut Highlights",
+    "desc": "You don’t have to be very bold with the chestnut color, you can use it for highlights instead. This hair is a brown shade that almost looks black with added chestnut brown highlights. As you can see, the lighter brown really lifts the hair and brightens it up. So, if you have very dark hair that needs jazzing up, this is the perfect way to do it.",
+    "image": "assets/images/hairstyles/women-chestnut-highlights.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color,Curl"
+  },
+  {
+    "id": "96",
+    "title": "Coppery Chestnut Hair Color",
+    "desc": "As with any color, there are different shades of chestnut. Some are darker or lighter than others and some have warm coppery tones, just like this one. The hair is very long with both brown and red tones. Most of the coppery color is on the top layer of the hair so it really brightens up the brown underneath. The color is stunning and quite statement making. This color is a great way to spice up your hair.",
+    "image": "assets/images/hairstyles/women-coppery-chestnut-hair-color.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color,Curl"
+  },
+  {
+    "id": "97",
+    "title": "Sleek Ombre Hair",
+    "desc": "Sleek and stylish way to wear chestnut brown. For this look, the hair is long with dark brown at the root and the chestnut color midway. The color change creates a stylish ombre effect which is quite bold because of the straight style. This is a trendy and easy to wear look that will suit everyone.",
+    "image": "assets/images/hairstyles/women-sleek-ombre-hair.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color,Straight"
+  },
+  {
+    "id": "98",
+    "title": "Brown, Chestnut and Blonde Hair",
+    "desc": "Blonde and brown hair, then you need to check this out. Here we have wavy long hair. Most of the hair is dark brown with added chestnut and blonde color. The blonde color is only at the front of the hair which makes the overall style look more natural and sun-kissed. It is just a stunning hairstyle and it is so summery too.",
+    "image": "assets/images/hairstyles/women-brown-chestnut-blonde-hair.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color,Curl"
+  },
+  {
+    "id": "99",
+    "title": "Chestnut Elegant Ponytail",
+    "desc": "The hair is a rich chestnut brown shade and the long hair is styled into a sky high ponytail. This is giving us Ariana Grande vibes and it is just stunning. It shows a stylish and glam way to style chestnut brown hair and a ponytail like this can be dressed up or down to suit any occasion.",
+    "image": "assets/images/hairstyles/women-chestnut-ponytail.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color,Ponytail"
+  },
+  {
+    "id": "100",
+    "title": "Brown and Chestnut Highlights",
+    "desc": "For this look, the hair is a deep brown color with added chestnut and blonde highlights. The chestnut and blonde compliment the darker root color perfectly. This is a gorgeous and trendy style that will really jazz up your hair. Recreate something similar or add more blonde for a bolder look.",
+    "image": "assets/images/hairstyles/women-brown-and-chestnut-hightlights.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color"
+  },
+  {
+    "id": "101",
+    "title": "Beautiful Brennette Hair",
+    "desc": "For this look, the hair is dark with added chestnut and blonde highlights. The hair is also wavy which gives the overall style a boho summer vibe. If you want to brighten up your hair for the warmer seasons, this is a gorgeous way to do it.",
+    "image": "assets/images/hairstyles/women-beautiful-brunnete-hair.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color"
+  },
+  {
+    "id": "102",
+    "title": "Cute Short Cut",
+    "desc": "Like a shorter cut? If so, check this out. Here we have a short bob cut that is longer at the front and shorter at the back. The hair also has trendy chestnut highlights. This is a chic and stylish hair idea and it will suit everyone. Recreate this or you can try a sleek and straight version of the cut and color.",
+    "image": "assets/images/hairstyles/women-cute-short-cut.jpg",
+    "category": "Women's Haircut",
+    "tags": "Medium Length,Hairstyle With Color"
+  },
+  {
+    "id": "103",
+    "title": "Dark Hair with Chestnut Highlights",
+    "desc": "This time the hair is very dark and the lighter chestnut color only gets added towards the ends of the hair. By adding a small amount of color like this, your hair gets jazzed up but in a low-key way. Not only does the hair look very chic, but color like this is also easy to maintain. It will grow out on its own and it can be reapplied if you wish.",
+    "image": "assets/images/hairstyles/women-dark-hair-with-chestnut-highlights.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color"
+  },
+  {
+    "id": "104",
+    "title": "Stylishly Seventies Hair",
+    "desc": "Feathered hair was one of the most popular hairstyles of the 70’s. The style was put into the spotlight by celebrities like Farrah Fawcett. Here we have a long feathered hairstyle that is a more modern version of the Farrah Fawcett look. It is a gorgeous hairstyle that will make you look stylish and it is perfect for those who like vintage fashion and beauty.",
+    "image": "assets/images/hairstyles/women-stylishly-seventies-hair.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color,Curl"
+  },
+  {
+    "id": "105",
+    "title": "Feathered Bob",
+    "desc": "The hair has a length that just goes past the chin and the layers are quite short. This feathered style is so chic and and glam. The bob cut will be perfect for the upcoming summer and it will look beautiful on anyone. You can recreate this or opt for a longer or shorter bob.",
+    "image": "assets/images/hairstyles/women-feathered-bob.jpg",
+    "category": "Women's Haircut",
+    "tags": "Medium Length,Hairstyle With Color"
+  },
+  {
+    "id": "107",
+    "title": "Chic Balayage Hair",
+    "desc": "Here we have long and beautiful feathered hair with added balayage color. The hair is black with added brown tones. By adding brown to black hair, you can give it a lift and make it look a little brighter. The balayage and the feather cut just brings new life to the hair. You can use any color for the balayage highlights.",
+    "image": "assets/images/hairstyles/women-chic-balyage-hair-idea.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color"
+  },
+  {
+    "id": "108",
+    "title": "Rock Chick Hairstyle",
+    "desc": "Let out your inner rock chick with a hairstyle like this! This hair idea features a mid length feathered cut that is textured and there are long side bangs too. It is an edgy, trendy and relaxed hairstyle that will look amazing on everyone. A haircut like this is for the bold ladies who want to transform their look.",
+    "image": "assets/images/hairstyles/women-rock-chick-hairstyle.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color"
+  },
+  {
+    "id": "109",
+    "title": "Vibrant Feathered Hair",
+    "desc": "Love bold hair colors? Then this hairstyle could be perfect! Here we have a long feathered cut that is colored in a vibrant and vivid purple shade. The purple is so bold and it looks amazing with this haircut. If you like to stand out from the crowd in style, then this is a must-have for you. You can recreate this look or try a different purple shade. A pastel purple will be great for the spring and summer.",
+    "image": "assets/images/hairstyles/women-vibrant-feathered-hair.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color"
+  },
+  {
+    "id": "110",
+    "title": "Bright Blonde Hairstyle with Subtler Layers",
+    "desc": "If you want a subtler hairstyle, then check out this next look. This hairstyle features a long cut with feather layers. As the layers are not very short, it creates a more low-key look. The hair is also colored in a bright blonde shade. This is an easy to wear haircut that will never go out of style. You can recreate the hairstyle in a different color.",
+    "image": "assets/images/hairstyles/women-bright-blonde-hairstyle-with-subtler-layers.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color"
+  },
+  {
+    "id": "111",
+    "title": "Relaxed and Summery Hairstyle",
+    "desc": "Love the summery hairstyles? Then check out this next look. Here we have long, highlighted hair with a feathered cut. The hair is textured which makes the layers stand out and the waves create a relaxed and beachy look. Hair like this will be perfect for the summer! You can recreate the sun-kissed look or try the cut in any color.",
+    "image": "assets/images/hairstyles/women-relaxed-and-summery-hairstyle.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Hairstyle With Color"
+  },
+  {
+    "id": "112",
+    "title": "Pretty Feathered Layers with Curls",
+    "desc": "If you are looking for a chic and elegant hairstyle, then this could be perfect for you. Here we have a shoulder length cut with feathered layers. The hair has beautiful natural curls that make the layers pop even more. This is a pretty hairstyle and it would be perfect for a special occasion. It is an easy to wear and style look that will suit everyone.",
+    "image": "assets/images/hairstyles/women-pretty-feathered-layers-with-curls.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Curl,Layer"
+  },
+  {
+    "id": "113",
+    "title": "Sleek and Straight Feathered Hair",
+    "desc": "If the curly and textured hair ideas are not for you, then you could try a sleeker style like this. For this look, the hair is cut to just below the shoulders and the layers are quite subtle. This is like a more modern and trendy version of the feathered cut. Recreate the whole look for a bright and bold hairstyle or try the cut in a different color. Vibrant colors like red would look amazing.",
+    "image": "assets/images/hairstyles/women-sleek-and-straight-feathered-hair.jpg",
+    "category": "Women's Haircut",
+    "tags": "Long Length,Straight,Layer"
   }
 ]
